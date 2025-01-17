@@ -1,7 +1,7 @@
 
 # Bot de Clique Automático com Interface Gráfica
 
-Este projeto é um **bot de clique automático** desenvolvido em Python, com uma interface gráfica simples, usando a biblioteca **Tkinter** para gerenciar a interação do usuário e **PyAutoGUI** para realizar cliques automáticos em uma área específica da tela. O bot localiza uma imagem na tela e clica automaticamente nela, com contagem de cliques e tempo de execução.
+Este projeto é um **bot de clique automático** desenvolvido em Python, com uma interface gráfica simples, usando a biblioteca **Tkinter** para gerenciar a interação do usuário e **PyAutoGUI** para realizar cliques automáticos em uma área específica da tela. O bot localiza uma imagem na tela e clica automaticamente nela, com contagem de cliques e tempo de execução. Este bot foi feito para um pedido de um amigo, que tinha objetivos para usa-lo e para que eu pudesse treinar meu python.
 
 ## Funcionalidades
 
