@@ -40,7 +40,7 @@ This project is an **automatic clicker bot** developed in Python, with a simple 
 
 
 
-#Em Português:
+# Em Português:
 
 # Bot de Clique Automático com Interface Gráfica
 
